@@ -1,2 +1,8 @@
 TC
+this is the end
+<<<<<<< HEAD
 TC: developer
+=======
+TC: mantainer
+
+>>>>>>> c39ea49cb754f2860a7e6fa0ee75e53b69d26ecd
